@@ -749,6 +749,8 @@ defaultContentLanguage = "en"
       enabled = true
       address = "محافظه الشرقيه مدينة الزقازيق مستشفى جامعة الزقازيق"
       google_maps_link = "https://maps.app.goo.gl/Yzfc8FiuVMScVcgj9"
+      latitude = "30.58521386072556"
+      longitude = "31.487328886506962"
 
 # Arabic Translations
 [params.ar]
