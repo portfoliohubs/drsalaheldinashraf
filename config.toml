@@ -1,0 +1,847 @@
+baseURL = "https://portfoliohubs.github.io/drsalaheldinashraf/"
+languageCode = "en-us"
+title = "Dr. Salah Eldin Ashraf"
+defaultContentLanguage = "en"
+
+[params]
+  # Hero Section
+  [params.hero]
+    name = "Dr. Salah Eldin Ashraf Metwally Abd EL Star"
+    tagline = "internship Dentist"
+    graduation = "Graduated 2025 - Faculty of Dentistry"
+    profile_image = "https://github.com/user-attachments/assets/e1cd89a0-d96f-4a07-995c-80ea435e7d06"
+    profile_image_alt = "Profile photo of Dr. Salah Eldin Ashraf"
+    
+    [params.hero.current_position]
+      role = "internship Dentist"
+      clinic = "Zagazig University Hospital"
+
+  [params.seo]
+    description = "Dentist Salah Eldin Ashraf in Zagazig"
+    doctor_name_en = "Dr. Salah Eldin Ashraf"
+    doctor_name_ar = "د. صلاح الدين اشرف"
+    site_name = "Dr. Salah Eldin Ashraf"
+    og_image = ""
+    favicon_image = ""
+    twitter_handle = ""
+    keywords = [
+      "dentist",
+      "dental clinic",
+      "cosmetic dentistry",
+      "restorative dentistry",
+      "Dr. Salah Eldin Ashraf",
+      "zagazig",
+      "DENTIST IN ZAGAZIG",
+      "DENTAL CLINIC IN ZAGAZIG",
+      "DENTAL CLINIC"
+    ]
+    keywords_ar = [
+      "طبيب أسنان",
+      "عيادة أسنان",
+      "تجميل الأسنان",
+      "ترميم الأسنان",
+      "د. صلاح الدين اشرف",
+      "طبيب بالزقازيق",
+      "عيادة بالزقازيق",
+      "دكتور صلاح الدين اشرف",
+      "عيادة صلاح الدين اشرف",
+      "عيادة اسنان الشرقية",
+      "صلاح الدين اشرف اسنان", 
+      "دكتور صلاح الدين اشرف الجامعة المصرية الروسية",
+      " دكتور صلاح الدين اشرف اسنان الروسية", 
+      "دكتور صلاح الدين اشرف اسنان ", 
+      "دكتور صلاح الدين اشرف اسنان بدر ", 
+      " دكتور صلاح الدين اشرف اسنان الزقازيق ", 
+      "دكتور أسنان", 
+      " دكتور صلاح الدين اسانات",
+      "عيادة أسنان", 
+      " مركز اسنان", 
+      "عيادة اسنان الشرقية",
+      "مواقع طب اسنان",
+      "موقع طبيب اسنان",
+      "موقع عيادة اسنان",
+      "اشطر دكتور اسنان فى الزقازيق",
+      "اشطر دكتور",
+      "اشطر دكتور اسنان",
+      "موقع بالبرمجة لطبيب اسنان",
+      "مركز أسنان",
+  "عيادات أسنان",
+  "طب الأسنان",
+  "علاج الأسنان",
+  "تنظيف الأسنان",
+  "حشو الأسنان",
+  "خلع أسنان",
+  "تركيبات أسنان",
+#    // --- خدمات وتخصصات دقيقة (High-Value Services) ---
+  "زراعة الأسنان في الزقازيق",
+  "تقويم الأسنان الزقازيق",
+  "فينير الأسنان الزقازيق",
+  "تبييض الأسنان بالليزر",
+  "هوليود سمايل الزقازيق",
+  "علاج عصب الأسنان",
+  "جراحة الفم والأسنان",
+  "خلع ضرس العقل",
+  "تركيب طقم أسنان",
+  "تنظيف الجير وتلميع الأسنان",
+  "علاج لثة الزقازيق",
+  "حشو تجميلي للأسنان",
+  "أشعة أسنان ديجيتال",
+
+#  // --- استهداف مناطق داخل الزقازيق (Hyper-Local SEO) ---
+  "دكتور اسنان القومية الزقازيق",
+  "عيادة اسنان فلل الجامعة",
+  "دكتور اسنان حى الزهور الزقازيق",
+  "اشطر دكتور اسنان في محافظة الشرقية",
+
+ # // --- كلمات الأسعار والعروض (Intent-Driven) ---
+  "ارخص دكتور اسنان في الزقازيق",
+  "اسعار حشو الاسنان الزقازيق",
+  "تكلفة زراعة الاسنان في الزقازيق",
+  "عروض عيادات الاسنان بالزقازيق",
+  "حجز موعد اسنان اونلاين الزقازيق",
+
+ # // --- كلمات عامية وأخطاء شائعة (Common User Behavior) ---
+  "دكتور سنان",
+  "وجع سنان",
+  "تجميل سنان الشرقية",
+  "احسن عيادة سنان فى الزقازيق",
+
+  #// --- كلمات مرتبطة بالمكان (Local SEO) ---
+  "دكتور أسنان في الزقازيق",
+  "طبيب أسنان بالزقازيق",
+  "عيادة أسنان الزقازيق",
+  "مركز أسنان الزقازيق",
+  "اشطر دكتور أسنان في الزقازيق",
+  "افضل دكتور أسنان في الزقازيق",
+  "دكتور أسنان قريب مني الزقازيق",
+  "عيادة أسنان في الشرقية",
+  "دكتور أسنان محافظة الشرقية",
+  "اشطر دكتور أسنان في الشرقية",
+  "افضل عيادة أسنان في الشرقية",
+  "طبيب أسنان الشرقية",
+  "عيادة أسنان بالشرقية",
+
+  #// --- كلمات البراند (Brand Keywords) ---
+  "عيادة دكتور صلاح الدين اشرف",
+  "طبيب أسنان صلاح الدين اشرف",
+  "رقم دكتور صلاح الدين اشرف",
+  "عنوان عيادة دكتور صلاح الدين اشرف",
+  "مواعيد دكتور صلاح الدين اشرف",
+
+  #// --- اسمك + المكان ---
+  "دكتور صلاح الدين اشرف الزقازيق",
+  "دكتور صلاح الدين اشرف أسنان الزقازيق",
+  "عيادة دكتور صلاح الدين اشرف الزقازيق",
+  "طبيب أسنان صلاح الدين اشرف الزقازيق",
+  "دكتور صلاح الدين اشرف الشرقية",
+  "عيادة صلاح الدين اشرف بالشرقية",
+
+  #// --- اسمك + الجامعة ---
+  "دكتور صلاح الدين اشرف أسنان الجامعة الروسية",
+  "دكتور صلاح الدين اشرف جامعة بدر",
+  "خريج الجامعة الروسية طب أسنان",
+  "دكتور أسنان الجامعة الروسية الزقازيق",
+  "دكتور أسنان جامعة بدر الزقازيق",
+
+  #// --- كلمات نية الشراء ---
+  "دكتور أسنان شاطر في الزقازيق",
+  "دكتور أسنان مضمون",
+  "دكتور أسنان ممتاز",
+  "احسن عيادة أسنان",
+  "عيادة أسنان موثوقة",
+  "دكتور أسنان شاطر في الشرقية",
+
+  #// --- كلمات تقنية للموقع ---
+  "موقع دكتور أسنان",
+  "موقع طبي للأسنان",
+  "موقع دكتور أسنان في الزقازيق",
+  "موقع عيادة أسنان بالشرقية",
+  "تصميم موقع عيادة أسنان",
+
+  #// --- صيغ العامية وبدون همزات ---
+  "دكتور اسنان",
+  "عيادة اسنان",
+  "اشطر دكتور اسنان",
+  "افضل دكتور اسنان",
+  "دكتور اسنان زقازيق",
+  "عيادة اسنان زقازيق",
+  "صلاح الدين اشرف اسنان",
+  "د صلاح الدين اشرف",
+  "دكتور صلاح الدين"
+    ]
+
+  [params.integrations]
+    google_search_console_verification = "6VtKNI5qnSYsfjCTBMfnm9PuZjjR7aYh6crmofpS8yw"
+    google_analytics_measurement_id = ""
+
+  [params.ui]
+    [params.ui.nav]
+      profile = "Profile"
+      skills = "Skills"
+      education = "Education"
+      clinical_cases = "Clinical Cases"
+      cases_short = "Cases"
+      blog = "Blog"
+      contact = "Contact"
+
+    [params.ui.skills]
+      title = "Professional Skills"
+      clinical_title = "Clinical Skills"
+      digital_title = "Digital Skills"
+      soft_title = "Soft Skills"
+
+    [params.ui.education]
+      title = "Education & Timeline"
+      graduated_label = "Graduated"
+      career_timeline_title = "Career Timeline"
+      courses_title = "Courses & Certifications"
+
+    [params.ui.cases]
+      title = "Clinical Cases"
+      subtitle = "Clinical Cases Gallery"
+
+    [params.ui.blog]
+      title = "Latest Articles"
+      subtitle = "Insights and Knowledge"
+      empty_text = "No blog posts yet"
+
+    [params.ui.contact]
+      title = "Get In Touch"
+      subtitle = "Let's connect and collaborate"
+      follow_me_title = "Follow Me"
+
+    [params.ui.labels]
+      now_working_as = "Now working as"
+      at = "at"
+      phone = "Phone"
+      whatsapp = "WhatsApp"
+      email = "Email"
+      location = "Location"
+      get_directions = "Get Directions"
+      masters_degree = "Master's Degree"
+      phd_degree = "PhD Degree"
+      rights_reserved = "All rights reserved"
+
+  # Skills Section
+  [params.skills]
+    clinical = [
+      "Cosmetic restoration",
+      "Endodontics",
+      "Pediatric",
+      "Prosthesis"
+    ]
+    
+    digital = [
+      "Mobile photography",
+      "Basic dental motion graphic"
+    ]
+    
+    soft = [
+      "Co-operative",
+      "Hard working",
+      "Patient management"
+    ]
+
+  # Education Section
+  [params.education]
+    university = "Egyptian Russian University"
+    graduation_year = "2025"
+    
+    [params.education.master]
+      obtained = false
+    
+    [params.education.phd]
+      obtained = false
+    
+    [[params.education.timeline]]
+      year = "2020"
+      event = "Started Faculty of Dentistry"
+    
+    [[params.education.timeline]]
+      year = "2025"
+      event = "Graduated from Faculty of Dentistry"
+    
+    # Certificates (images will be uploaded via GitHub issues)
+    # [[params.education.certificates]]
+    #   title = "Advanced Endodontics Course"
+    #   image = "cert1.jpg"
+# Clinical Cases Section
+  # Endodontic
+  [[params.clinical_cases]]
+    enabled = true
+    category = "Endodontic"
+    category_ar = "حشو عصب"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/63a549c4-da71-468b-85dd-ff4e0947a3fd"
+      alt = "Endodontic treatment for upper 6"
+      description = "Endodontic treatment for upper 6"
+      alt_ar = "حشو عصب لضرس سادس علوي"
+      description_ar = "حشو عصب لضرس سادس علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f9f7ab97-8e0f-4632-99e4-62f30f7ac7f8"
+      alt = "Endodontic treatment for upper 4&5"
+      description = "Endodontic treatment for upper 4&5"
+      alt_ar = "حشو عصب لضرسين الرابع والخامس علوي"
+      description_ar = "حشو عصب لضرسين الرابع والخامس علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/bc24f031-1b44-479d-884d-1a50eb74b9bc"
+      alt = "Endodontic treatment for lower 6"
+      description = "Endodontic treatment for lower 6"
+      alt_ar = "حشو عصب الضرس السادس السفلي"
+      description_ar = "حشو عصب الضرس السادس السفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/d65e0535-fb6e-443c-9a0e-c7b1437cda0a"
+      alt = "Endodontic treatment for lower 6"
+      description = "Endodontic treatment for lower 6"
+      alt_ar = "حشو عصب الضرس السادس السفلي"
+      description_ar = "حشو عصب الضرس السادس السفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/d198647e-083c-4f0a-8669-99c91058d880"
+      alt = "Endodontic treatment for lower 7"
+      description = "Endodontic treatment for lower 7"
+      alt_ar = "حشو عصب لضرس سابع سفلي"
+      description_ar = "حشو عصب لضرس سابع سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/76cc181d-fdb7-4713-9f95-0e37f6a6632f"
+      alt = "Endodontic treatment for lower 6"
+      description = "Endodontic treatment for lower 6"
+      alt_ar = "حشو عصب لضرس سادس سفلي"
+      description_ar = "حشو عصب لضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/6bf5f969-9826-4826-b972-12957e77b875"
+      alt = "Endodontic treatment for lower 6"
+      description = "Endodontic treatment for lower 6"
+      alt_ar = "حشو عصب لضرس سادس سفلي"
+      description_ar = "حشو عصب لضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/95688b39-ed7d-44cc-8661-6a7e2af93ef5"
+      alt = "Endodontic treatment for upper 1"
+      description = "Endodontic treatment for upper 1"
+      alt_ar = "حشو عصب لقاطع امامي علوي"
+      description_ar = "حشو عصب لقاطع امامي علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/3d572ea4-abc5-48cc-817f-be2f9e9e09e7"
+      alt = "Endodontic treatment for upper 2"
+      description = "Endodontic treatment for upper 2"
+      alt_ar = "حشو عصب لقاطع جانبي علوي"
+      description_ar = "حشو عصب لقاطع جانبي علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/199b58ea-1125-4199-b0fa-a1d864ca7a03"
+      alt = "Endodontic treatment for upper 2,3,4,5"
+      description = "Endodontic treatment for upper 2,3,4,5"
+      alt_ar = "حشو عصب لقاطع جانبي علوي وناب علوي وضرسين رابع وخامس علويين"
+      description_ar = "حشو عصب لقاطع جانبي علوي وناب علوي وضرسين رابع وخامس علويين"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/668b136e-745d-4ec7-a0b1-c11e9549112d"
+      alt = "Endodontic treatment for upper 2"
+      description = "Endodontic treatment for upper 2"
+      alt_ar = "حشو عصب لقاطع جانبي علوي"
+      description_ar = "حشو عصب لقاطع جانبي علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/e95e76e4-31a7-42cc-94ec-0f1cf980c2db"
+      alt = "Endodontic treatment for lower 4"
+      description = "Endodontic treatment for lower 4"
+      alt_ar = "حشو عصب لضرس رابع سفلي"
+      description_ar = "حشو عصب لضرس رابع سفلي"
+
+  # Fixed prosthodontics
+  [[params.clinical_cases]]
+    enabled = true
+    category = "Fixed prosthodontics"
+    category_ar = "التركيبات الثابتة"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f78a5ef5-269f-4edb-ac02-0a2a2abd8696"
+      alt = "Two post and core on lower 4&6, Zercoin bridge on lower 4&6, Endo crown on lower 7"
+      description = "Two post and core on lower 4&6, Zercoin bridge on lower 4&6, Endo crown on lower 7"
+      alt_ar = "دعامة وكوبري زيركون وتلبيسة لأسنان سفلية"
+      description_ar = "دعامة وكوبري زيركون وتلبيسة لأسنان سفلية"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/e11c7315-4737-4d6e-9b8e-4ce53e77dc41"
+      alt = "Zercoin bridge on lower 4&6"
+      description = "Zercoin bridge on lower 4&6"
+      alt_ar = "كوبري زيركون لتعويض ضرس سادس سفلي مفقود"
+      description_ar = "كوبري زيركون لتعويض ضرس سادس سفلي مفقود"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/7dc16a42-6b60-4fbd-83af-300eece41ff6"
+      alt = "Zirconia bridge on upper 5&7"
+      description = "Zirconia bridge on upper 5&7"
+      alt_ar = "كوبري زيركون لتعويض ضرس سادس علوي مفقود"
+      description_ar = "كوبري زيركون لتعويض ضرس سادس علوي مفقود"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/10be06f0-bc17-47df-8118-40b7d7c4dc44"
+      alt = "Zirconia bridge on lower 5&7"
+      description = "Zirconia bridge on lower 5&7"
+      alt_ar = "كوبري زيركون لتعويض ضرس سادس سفلي مفقود"
+      description_ar = "كوبري زيركون لتعويض ضرس سادس سفلي مفقود"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/defad3a4-beeb-4022-9a95-6f627ccb7eda"
+      alt = "4 units Laminate Veneers on Two Central incisors and Two Canines, 2 Crowns on Two Lateral incisors"
+      description = "4 units Laminate Veneers on Two Central incisors and Two Canines, 2 Crowns on Two Lateral incisors"
+      alt_ar = "تركيبات فينيير علي القواطع الأمامية والناب وطرابيش علي القواطع الجانبية"
+      description_ar = "تركيبات فينيير علي القواطع الأمامية والناب وطرابيش علي القواطع الجانبية"
+
+  # Operative
+  [[params.clinical_cases]]
+    enabled = true
+    category = "Operative"
+    category_ar = "الحشو التجميلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/5ea4034a-efaf-46ba-8b97-b21a7085eeeb"
+      alt = "Composite restoration for lower 7"
+      description = "Composite restoration for lower 7"
+      alt_ar = "حشو تجميلي ليزر لضرس سابع سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس سابع سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/bac1bc44-d48a-462d-8588-43ab0de4684d"
+      alt = "Composite restoration for lower 6"
+      description = "Composite restoration for lower 6"
+      alt_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f21372d5-1ca2-499b-9e73-1b79033f5ecf"
+      alt = "Composite restoration for upper 6"
+      description = "Composite restoration for upper 6"
+      alt_ar = "حشو تجميلي ليزر لضرس سادس علوي"
+      description_ar = "حشو تجميلي ليزر لضرس سادس علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/96dad493-681e-41f4-9838-06d961a70559"
+      alt = "Composite restoration for lower 6"
+      description = "Composite restoration for lower 6"
+      alt_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/3bb2223b-29f3-4afb-8f33-debdf5c300dc"
+      alt = "Composite restoration for upper 4"
+      description = "Composite restoration for upper 4"
+      alt_ar = "حشو تجميلي ليزر لضرس رابع علوي"
+      description_ar = "حشو تجميلي ليزر لضرس رابع علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/1d197a96-5059-46c3-af32-1a8df0b26459"
+      alt = "Composite restoration for lower 7"
+      description = "Composite restoration for lower 7"
+      alt_ar = "حشو تجميلي ليزر لضرس سابع سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس سابع سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/403e493e-c60e-4c1a-a520-6792516c2480"
+      alt = "Composite restoration for lower 6"
+      description = "Composite restoration for lower 6"
+      alt_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/a015c045-4da6-4c2c-a78e-42da02ff41cd"
+      alt = "Composite restoration for lower 6"
+      description = "Composite restoration for lower 6"
+      alt_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/572d2ef1-d2a1-4356-a62e-26dd102e9dc4"
+      alt = "Composite restoration for lower 6"
+      description = "Composite restoration for lower 6"
+      alt_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/94003d81-2388-432c-921d-523dc40d9360"
+      alt = "Composite restoration for lower 4&5"
+      description = "Composite restoration for lower 4&5"
+      alt_ar = "حشو تجميلي ليزر لضروس سفلية رابع وخامس"
+      description_ar = "حشو تجميلي ليزر لضروس سفلية رابع وخامس"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/18cc7e14-a233-42b1-9f5b-14fc6a3aeb75"
+      alt = "Composite restoration for lower 4"
+      description = "Composite restoration for lower 4"
+      alt_ar = "حشو تجميلي ليزر لضرس رابع سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس رابع سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/0c15800b-e015-4a36-8af2-283cf4d337bf"
+      alt = "Composite restoration for lower 2"
+      description = "Composite restoration for lower 2"
+      alt_ar = "حشو تجميلي ليزر لقاطع جانبي سفلي"
+      description_ar = "حشو تجميلي ليزر لقاطع جانبي سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/3e09f5e5-0779-4559-98b7-0ddd8de36127"
+      alt = "Composite restoration for upper 4&5"
+      description = "Composite restoration for upper 4&5"
+      alt_ar = "حشو تجميلي ليزر لضرس رابع وخامس علويين"
+      description_ar = "حشو تجميلي ليزر لضرس رابع وخامس علويين"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/0ab73e7d-a146-4857-86be-299012262b92"
+      alt = "Composite restoration for lower 4"
+      description = "Composite restoration for lower 4"
+      alt_ar = "حشو تجميلي ليزر لضرس رابع سفلي"
+      description_ar = "حشو تجميلي ليزر لضرس رابع سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/6fcbf5fd-0d07-4bfd-b8d6-39486fc40882"
+      alt = "Composite restoration for upper 7"
+      description = "Composite restoration for upper 7"
+      alt_ar = "حشو تجميلي ليزر لضرس سابع علوي"
+      description_ar = "حشو تجميلي ليزر لضرس سابع علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/c0951aea-1453-4efd-8d19-611f7780db67"
+      alt = "Composite restoration for upper 2"
+      description = "Composite restoration for upper 2"
+      alt_ar = "حشو تجميلي ليزر لقاطع جانبي علوي"
+      description_ar = "حشو تجميلي ليزر لقاطع جانبي علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/751bebfd-3805-4992-b276-1abe5767c307"
+      alt = "Composite restoration for upper 1"
+      description = "Composite restoration for upper 1"
+      alt_ar = "حشو تجميلي ليزر لقاطع امامي"
+      description_ar = "حشو تجميلي ليزر لقاطع امامي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/6b2cc271-3056-46fa-b8bd-32ae0d262312"
+      alt = "Composite restoration for upper 1"
+      description = "Composite restoration for upper 1"
+      alt_ar = "حشو تجميلي ليزر لقاطع امامي"
+      description_ar = "حشو تجميلي ليزر لقاطع امامي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/814d419f-224b-44ec-9eb4-3cdddc69cf53"
+      alt = "Composite restoration for upper 4&5"
+      description = "Composite restoration for upper 4&5"
+      alt_ar = "حشو تجميلي ليزر لضرس رابع وخامس علويين"
+      description_ar = "حشو تجميلي ليزر لضرس رابع وخامس علويين"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/7a8911f5-2f6a-4f14-9fb9-8cdd8831823b"
+      alt = "Composite restoration for lower 6&7"
+      description = "Composite restoration for lower 6&7"
+      alt_ar = "حشو تجميلي ليزر لضروس سفلية سادس وسابع"
+      description_ar = "حشو تجميلي ليزر لضروس سفلية سادس وسابع"
+
+  # Surgery
+  [[params.clinical_cases]]
+    enabled = true
+    category = "Surgery"
+    category_ar = "الجراحة"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/daff9a91-18b0-4a2f-9513-69df84a1b1c1"
+      alt = "Extraction of lower 6"
+      description = "Extraction of lower 6"
+      alt_ar = "خلع ضرس سادس سفلي"
+      description_ar = "خلع ضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/93941f6b-57f4-47ab-99ba-34d320005568"
+      alt = "Extraction of upper 2"
+      description = "Extraction of upper 2"
+      alt_ar = "خلع قاطع جانبي علوي"
+      description_ar = "خلع قاطع جانبي علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f26bd67c-af63-4d25-928d-23dec8647686"
+      alt = "Extraction of upper 6"
+      description = "Extraction of upper 6"
+      alt_ar = "خلع ضرس سادس علوي"
+      description_ar = "خلع ضرس سادس علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/0cee82d1-1714-43d3-b703-87e5fa1c3703"
+      alt = "Extraction of lower 6 by separation"
+      description = "Extraction of lower 6 by separation"
+      alt_ar = "خلع ضرس سادس سفلي"
+      description_ar = "خلع ضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/0f9253ab-ed0e-4295-931c-3419fae062c1"
+      alt = "Extraction of lower 6"
+      description = "Extraction of lower 6"
+      alt_ar = "خلع ضرس سادس سفلي"
+      description_ar = "خلع ضرس سادس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/c33b078b-0d35-4b88-ae11-0ef931ddc772"
+      alt = "Extraction of lower 5"
+      description = "Extraction of lower 5"
+      alt_ar = "خلع ضرس خامس سفلي"
+      description_ar = "خلع ضرس خامس سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/3351a9a2-0edf-4643-a516-ea0f6baeaeda"
+      alt = "Extraction of upper Two Central incisors"
+      description = "Extraction of upper Two Central incisors"
+      alt_ar = "خلع القواطع الأمامية"
+      description_ar = "خلع القواطع الأمامية"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/cb37a98b-7129-44ca-b382-1d7176858df5"
+      alt = "Extraction of upper wisdom tooth 8"
+      description = "Extraction of upper wisdom tooth 8"
+      alt_ar = "خلع ضرس عقل علوي"
+      description_ar = "خلع ضرس عقل علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/f21cc13b-5669-450a-b538-8a07a2b4a041"
+      alt = "Extraction of upper 6"
+      description = "Extraction of upper 6"
+      alt_ar = "خلع ضرس سادس علوي"
+      description_ar = "خلع ضرس سادس علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/73b5cd27-a431-44de-9d18-107191ffd282"
+      alt = "Extraction of lower wisdom tooth 8"
+      description = "Extraction of lower wisdom tooth 8"
+      alt_ar = "خلع ضرس عقل سفلي"
+      description_ar = "خلع ضرس عقل سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/2f00a04e-1b2a-4d16-bba4-2ccf37ae31a6"
+      alt = "Extraction of remaining roots of upper 6"
+      description = "Extraction of remaining roots of upper 6"
+      alt_ar = "خلع جذور لضرس سادس علوي"
+      description_ar = "خلع جذور لضرس سادس علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/66f49bb5-bb8a-463b-b8f5-aa54ab1b8f17"
+      alt = "Extraction of lower 6 with cyst"
+      description = "Extraction of lower 6 with cyst"
+      alt_ar = "خلع ضرس سادس سفلي بكيس دهني"
+      description_ar = "خلع ضرس سادس سفلي بكيس دهني"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/5a7a4536-5704-40a5-bde9-8d8d5d4718d6"
+      alt = "Extraction of remaining root of upper 5"
+      description = "Extraction of remaining root of upper 5"
+      alt_ar = "خلع جذر لضرس خامس علوي"
+      description_ar = "خلع جذر لضرس خامس علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/dc17183d-7607-4c60-8a82-3b2f91560b49"
+      alt = "Extraction of lower wisdom tooth 8"
+      description = "Extraction of lower wisdom tooth 8"
+      alt_ar = "خلع ضرس عقل سفلي"
+      description_ar = "خلع ضرس عقل سفلي"
+
+  # Pediatric
+  [[params.clinical_cases]]
+    enabled = true
+    category = "Pediatric"
+    category_ar="اطفال"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/e7d0c510-54f0-44a2-8eb7-77e806dc7976"
+      alt = "Extraction of upper primary canine (c)"
+      description = "Extraction of upper primary canine (c)"
+      alt_ar = "خلع ناب لبني علوي"
+      description_ar = "خلع ناب لبني علوي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/9b556b1b-e6bd-4934-9487-f59b9ebef9fc"
+      alt = "Pulpectomy with stainless steel crown for lower D"
+      description = "Pulpectomy with stainless steel crown for lower D"
+      alt_ar = "حشو عصب وطربوش لضرس سفلي لبني لطفل"
+      description_ar = "حشو عصب وطربوش لضرس سفلي لبني لطفل"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/c636532e-f674-4699-9933-863c4a0a7d81"
+      alt = "Extraction of lower primary E"
+      description = "Extraction of lower primary E"
+      alt_ar = "خلع ضرس سفلي لبني لطفل"
+      description_ar = "خلع ضرس سفلي لبني لطفل"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/513ee3ae-30db-42ae-b009-0cdaf0d12912"
+      alt = "Stainless steel crowns for lower D and E"
+      description = "Stainless steel crowns for lower D and E"
+      alt_ar = "طرابيش لضروس سفلية لبنية"
+      description_ar = "طرابيش لضروس سفلية لبنية"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/d12c00fc-4f08-436a-81ce-f52fe65d222d"
+      alt = "Stainless steel crown for upper primary E"
+      description = "Stainless steel crown for upper primary E"
+      alt_ar = "طربوش لضرس علوي لبني"
+      description_ar = "طربوش لضرس علوي لبني"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/7a23d163-1c86-46f5-bfe6-283ac525a689"
+      alt = "Extraction of lower E"
+      description = "Extraction of lower E"
+      alt_ar = "خلع ضرس لبني سفلي"
+      description_ar = "خلع ضرس لبني سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/1d9cbd42-e1f4-4393-b90f-7e549f7b3599"
+      alt = "Stainless steel crown for upper E"
+      description = "Stainless steel crown for upper E"
+      alt_ar = "طربوش لضرس لبني علوي لطفل"
+      description_ar = "طربوش لضرس لبني علوي لطفل"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/c47f8b79-7e7b-4b8e-bbb2-23d31c60dedb"
+      alt = "Extraction of lower primary D"
+      description = "Extraction of lower primary D"
+      alt_ar = "خلع ضرس لبني سفلي"
+      description_ar = "خلع ضرس لبني سفلي"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/eae60cda-fb48-4bed-9db0-5888b0330163"
+      alt = "Pulpectomy of upper D"
+      description = "Pulpectomy of upper D"
+      alt_ar = "حشو عصب لضرس لبني علوي لطفل"
+      description_ar = "حشو عصب لضرس لبني علوي لطفل"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/bf75c9c5-4085-4d2e-b44e-ab475d37ca79"
+      alt = "Stainless steel crown for upper D"
+      description = "Stainless steel crown for upper D"
+      alt_ar = "طربوش لضرس لبني سفلي لطفل"
+      description_ar = "طربوش لضرس لبني سفلي لطفل"
+
+  # Perio
+  [[params.clinical_cases]]
+    enabled = true
+    category = "Perio"
+    category_ar = "اللثة"
+    
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/c5e5116a-2ccb-494a-ab48-38cfac7e6b92"
+      alt = "Scaling"
+      description = "Scaling"
+      alt_ar = "تنضيف جير"
+      description_ar = "تنضيف جير"
+      
+  # Contact Section
+  [params.contact]
+    phone = "+201154134880"
+    whatsapp = "+201154134880"
+    email = "ouf.salah277@gmail.com"
+    instagram = "https://www.instagram.com/salaheldinouf?igsh=MTE3dThlOGt5dnNvMg=="
+    facebook = "https://www.facebook.com/share/1H2rLbVGSF/"
+    linkedin = ""
+    
+    [params.contact.location]
+      enabled = true
+      address = "محافظه الشرقيه مدينة الزقازيق مستشفى جامعة الزقازيق"
+      google_maps_link = "https://maps.app.goo.gl/Yzfc8FiuVMScVcgj9"
+
+# Arabic Translations
+[params.ar]
+  [params.ar.hero]
+    name = "د. صلاح الدين اشرف متولي عبد الستار"
+    tagline = "طبيب امتياز"
+    graduation = "تخرج 2025 - كلية طب الأسنان"
+    profile_image_alt = "صورة الملف الشخصي للدكتور صلاح الدين اشرف"
+    
+    [params.ar.hero.current_position]
+      role = "طبيب امتياز"
+      clinic = "مستشفى جامعة الزقازيق"
+  
+[params.ar.skills]
+    clinical = [
+      "حشو تجميلي",
+      "حشو عصب",
+      "أطفال",
+      "تركيبات"
+    ]
+    
+    digital = [
+      "التصوير بالموبايل",
+      "الرسوم المتحركة للاسنان"
+    ]
+    
+    soft = [
+      "مجتهد",
+      "متعاون",
+      "اجيد التواصل مع المرضى"
+    ]
+    
+  
+  [params.ar.education]
+    university = "الجامعة المصرية الروسية"
+    
+    [params.ar.education.master]
+    
+    [params.ar.education.phd]
+    
+    [[params.ar.education.timeline]]
+      event = "بدء الدراسة في كلية طب الأسنان"
+    
+    [[params.ar.education.timeline]]
+      event = "التخرج من كلية طب الأسنان"
+    
+    [params.ar.contact.location]
+    address = "محافظه الشرقيه مدينة الزقازيق مستشفى جامعة الزقازيق"
+
+  [params.ar.ui]
+    [params.ar.ui.nav]
+      profile = "الملف الشخصي"
+      skills = "المهارات"
+      education = "التعليم"
+      clinical_cases = "الحالات السريرية"
+      cases_short = "الحالات"
+      blog = "المدونة"
+      contact = "التواصل"
+
+    [params.ar.ui.skills]
+      title = "المهارات المهنية"
+      clinical_title = "المهارات السريرية"
+      digital_title = "المهارات الرقمية"
+      soft_title = "المهارات الشخصية"
+
+    [params.ar.ui.education]
+      title = "التعليم والخط الزمني"
+      graduated_label = "تخرج"
+      career_timeline_title = "الخط الزمني المهني"
+      courses_title = "الدورات والشهادات"
+
+    [params.ar.ui.cases]
+      title = "الحالات السريرية"
+      subtitle = "معرض الحالات السريرية"
+
+    [params.ar.ui.blog]
+      title = "أحدث المقالات"
+      subtitle = "رؤى ومعرفة"
+      empty_text = "لا توجد مقالات بعد. أضف أول مقال في config.toml"
+
+    [params.ar.ui.contact]
+      title = "تواصل معي"
+      subtitle = "لنتواصل ونتعاون"
+      follow_me_title = "تابعني"
+
+    [params.ar.ui.labels]
+      now_working_as = "أعمل حالياً ك"
+      at = "في"
+      phone = "الهاتف"
+      whatsapp = "واتساب"
+      email = "البريد"
+      location = "الموقع"
+      get_directions = "احصل على الاتجاهات"
+      masters_degree = "درجة الماجستير"
+      phd_degree = "درجة الدكتوراه"
+      rights_reserved = "جميع الحقوق محفوظة"
