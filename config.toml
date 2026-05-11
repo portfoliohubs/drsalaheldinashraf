@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 [params]
   # Hero Section
   [params.hero]
-    name = "Dr. Salah Eldin Ashraf Metwally Abd EL Star"
+    name = "Dr. Salah Eldin Ashraf"
     tagline = "internship Dentist"
     graduation = "Graduated 2025 - Faculty of Dentistry"
     profile_image = "https://github.com/user-attachments/assets/e1cd89a0-d96f-4a07-995c-80ea435e7d06"
@@ -755,7 +755,7 @@ defaultContentLanguage = "en"
 # Arabic Translations
 [params.ar]
   [params.ar.hero]
-    name = "د. صلاح الدين اشرف متولي عبد الستار"
+    name = "د. صلاح الدين اشرف"
     tagline = "طبيب امتياز"
     graduation = "تخرج 2025 - كلية طب الأسنان"
     profile_image_alt = "صورة الملف الشخصي للدكتور صلاح الدين اشرف"
